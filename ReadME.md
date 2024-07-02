@@ -14,7 +14,7 @@ This project is a web-based currency converter that allows users to convert curr
 2. Select the currency you want to convert to.
 3. Enter the amount you want to convert.
 4. Click the "Convert" button to see the converted amount.
-
+5. 
 ## API Reference
 This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to fetch real-time exchange rates. You can refer to their documentation for more details.
 
@@ -25,7 +25,8 @@ This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
-Include screenshots of your application here if applicable.
+![Screenshot 1](Resources/1.png)
+![Screenshot 2](Resources/2.png)
 
 ## Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request!
