@@ -25,7 +25,11 @@ This project uses the [ExchangeRate-API](https://www.exchangerate-api.com/) to f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Screenshots
+
+## UI
 ![Screenshot 1](Resources/1.PNG)
+
+## USD to PKR
 ![Screenshot 2](Resources/2.PNG)
 
 ## Contributing
