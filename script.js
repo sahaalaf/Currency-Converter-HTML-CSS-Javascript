@@ -55,7 +55,7 @@ exchangeBtn.addEventListener("click", async (event)=>{
             const convertedAmount = amountValue * exchangeRate;
 
             // Display or use convertedAmount as needed
-            exchangedAmount.innerText = `${amountValue} ${from.value} = ${convertedAmount} ${to.value}`
+            exchangedAmount.innerText = `${amountValue} ${from.value} = ${convertedAmount.toFixed(2)} ${to.value}`
             
         } else {
             console.error("Failed to fetch exchange rates.");
